@@ -61,8 +61,14 @@ body{
 
 #top-nav{
 	height:30px;
-	
 	border-top-right-radius: 30px;
-    background: linear-gradient(to up, black ,white);
-    border-top-left-radius: 30px;
+	background: linear-gradient(to up, black ,white);
+    	border-top-left-radius: 30px;
+}
+
+#bot-nav{
+	height:30px;
+	border-bottom-right-radius: 30px;
+	background: linear-gradient(to up, black ,white);
+    	border-bottom-left-radius: 30px;
 }
